@@ -55,7 +55,7 @@ app.layout=html.Div([
     # Add your HTML tags to the content - notice a comma is added between HTML elements
     html.H1('Data Visualization for Story Telling'),
     html.Div([
-        html.P('Airplane crash in 2015..'),
+        html.P('Airplane crash from 1908 to 2009..'),
     ]),
     # Begin of DIV surrounding both Tables
     html.Div([
